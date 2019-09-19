@@ -1,0 +1,12 @@
+Hard coded : pre-defined
+Dynamic pages : code is generic, values are substituted 
+It is a web application if it goes beyond the front-end, i.e switches to http
+If it sticks to FTP, it's not
+Database is required for dynamic web apps
+Web server is a software that understands http and gives back an http response:
+Apache(one of the oldest web servers available)
+Flask, Django : web servers/framework
+Back end- web servers
+Example : JS+html-->ligin-->back-end:Python program-->http response to the web page rendered to the user
+Scripts : they are programs that automate the execution of tasks: a program can be executed by another script instead of a computer's processor(as a compiled program is)
+

@@ -1,0 +1,2 @@
+JSON is a memory object to retrieve data(at the backend) and render it to a web page.
+

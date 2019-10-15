@@ -32,6 +32,8 @@ print("Elements of m: ", m)
 m.reverse()
 print("Reversed elements of m: ", m)
 
+print("The list in reverse is : ",m[::-1])
+
 
 #Frequency of words in a given file
 from collections import Counter

@@ -9,8 +9,11 @@ def removeDuplicates(list1):
 			list2.append(number)
 		
 
-
-list1 = ["hello", "world", "hello", 8 , 8, 7, 7, 3]
+list1=[]
+n=int(input("Enter the number of elements you wish to enter : "))
+for i in range(0,n):
+    x=int(input("Element %1d : " %(i+1)))
+    list1.append(x)
 
 list2 = []
 
